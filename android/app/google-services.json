@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358230257243",
+    "project_id": "signin-page-b6bcd",
+    "storage_bucket": "signin-page-b6bcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358230257243:android:1b3d21160ca6804de2d97e",
+        "android_client_info": {
+          "package_name": "com.example.dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVUw24KTLq1RUdBWBOXzYlUGnEwn3pJ0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
