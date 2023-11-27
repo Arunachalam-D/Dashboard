@@ -84,7 +84,7 @@ class _CertificateScreenState extends State<CertificateScreen> {
                           crossAxisCount: isTabletScreen ? 2 : 1,
                           childAspectRatio: isTabletScreen ? 1.3 : 1),
                       desktop: CertificateInfoCardGridView(
-                        childAspectRatio: _size.width < 1400 ? 1.1 : 1,
+                        childAspectRatio: _size.width < 1400 ? 0.9 : 1,
                       ),
                     ),
                     smallSizedBox(),
